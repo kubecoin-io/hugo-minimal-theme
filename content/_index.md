@@ -15,13 +15,18 @@ sections:
       background:
         color: black
         text_color_light: true
-        image:
+        #image:
           # Add your image background to `assets/media/`.
-          filename: space.jpg
-          filters:
-            brightness: 0.2
-          size: cover
-          position: center
-          parallax: false
+        #  filename: space.jpg
+        #  filters:
+        #    brightness: 0.2
+        # size: cover
+        #   position: center
+        #  parallax: false
+        video:
+          # Name of video in `assets/media/`.
+          filename: background-video.mp4
+          # Post-processing: flip the video horizontally?
+          flip: false
       css_class: d-flex fullscreen align-items-center
 ---
