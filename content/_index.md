@@ -20,9 +20,9 @@ sections:
           filename: space.jpg
           filters:
             brightness: 0.2
-         size: cover
-           position: center
-           parallax: false
+          size: cover
+            position: center
+            parallax: false
         #video:
         #  # Name of video in `assets/media/`.
         #  filename: background-video.mp4
