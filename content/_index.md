@@ -27,6 +27,6 @@ sections:
           # Name of video in `assets/media/`.
           filename: background-video.mp4
           # Post-processing: flip the video horizontally?
-          #flip: false
+          flip: false
       css_class: d-flex fullscreen align-items-center
 ---
