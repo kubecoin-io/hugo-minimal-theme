@@ -1,7 +1,7 @@
 ---
 # Display name
 title: vampir.io
-name_pronunciation: VAM PI RIO
+name_pronunciation: HTTPS://
 
 # Is this the primary user of the site?
 superuser: true
