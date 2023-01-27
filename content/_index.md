@@ -23,10 +23,10 @@ sections:
         # size: cover
         #   position: center
         #  parallax: false
-        video:
-          # Name of video in `assets/media/`.
-          filename: background-video.mp4
-          # Post-processing: flip the video horizontally?
-          flip: false
+        #video:
+        #  # Name of video in `assets/media/`.
+        #  filename: background-video.mp4
+        #  # Post-processing: flip the video horizontally?
+        # flip: false
       css_class: d-flex fullscreen align-items-center
 ---
