@@ -20,7 +20,7 @@ sections:
           filename: space.jpg
           filters:
             brightness: 0.2
-          size: cover
+            size: cover
             position: center
             parallax: false
         #video:
