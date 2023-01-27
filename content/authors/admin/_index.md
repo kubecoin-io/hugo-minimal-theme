@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: vampir.io
+name_pronunciation: VAM PI RIO
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,15 +11,15 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧛
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
-#  url: ""
+#- name: vampir.io
+#  url: "https://vampir.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Hello World.'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
