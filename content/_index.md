@@ -25,8 +25,8 @@ sections:
         #    parallax: false
         video:
         #  # Name of video in `assets/media/`.
-        #  filename: background-video.mp4
-          filename: {{< video src="background-video.mp4" controls="no" >}}
+          filename: background-video.mp4
+        #  filename: {{< video src="background-video.mp4" controls="no" >}}
         #  # Post-processing: flip the video horizontally?
           flip: false
       css_class: d-flex fullscreen align-items-center
