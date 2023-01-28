@@ -26,28 +26,20 @@ bio: 'Hello World.'
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:info@vampir.io'
-  - icon: file
-    icon_pack: fas
-    link: https://vampir.io/files
   - icon: globe
     icon_pack: fas
     link: https://whoami.vampir.io
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+  - icon: file
+    icon_pack: fas
+    link: https://vampir.io/files/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  # Link to a PDF of your resume/CV from the About widget.
+    link: https://github.com/vampir-io/
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:info@vampir.io'
+
+# Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
     icon_pack: fas
