@@ -12,7 +12,7 @@ sections:
         👋 Welcome to vampir.io website.
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
-      background:
+      background: {{< youtube w7Ft2ymGmfc >}}
         #color: black
         #text_color_light: true
         #image:
@@ -28,7 +28,7 @@ sections:
         #  background.video.filename: background-video.mp4
         #filename: background-video.mp4
         #filename: 
-        {{< youtube w7Ft2ymGmfc >}}
+        #{{< youtube w7Ft2ymGmfc >}}
         #  filename: {{< video src="background-video.mp4" controls="no" >}}
         #  # Post-processing: flip the video horizontally?
         #  flip: false
