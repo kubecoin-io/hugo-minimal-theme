@@ -27,7 +27,8 @@ sections:
         #  # Name of video in `assets/media/`.
         #  background.video.filename: background-video.mp4
         #filename: background-video.mp4
-        filename: {{< youtube w7Ft2ymGmfc >}}
+        #filename: 
+        {{< youtube w7Ft2ymGmfc >}}
         #  filename: {{< video src="background-video.mp4" controls="no" >}}
         #  # Post-processing: flip the video horizontally?
         #  flip: false
