@@ -28,22 +28,25 @@ bio: 'Hello World.'
 social:
   - icon: globe
     icon_pack: fas
+    label: Whoami
     link: https://whoami.vampir.io
-  - icon: file
+  - icon: folder
     icon_pack: fas
     link: https://vampir.io/files/
+    label: Download
   - icon: github
     icon_pack: fab
     link: https://github.com/vampir-io/
+    label: vampir.io official repositories
   - icon: envelope
     icon_pack: fas
     link: 'mailto:info@vampir.io'
 
 # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
-  - icon: file-pdf
+  - icon: file-export
     icon_pack: fas
-    label: View Resume
+    label: Config file
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
