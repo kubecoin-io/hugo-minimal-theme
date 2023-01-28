@@ -29,12 +29,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:info@vampir.io'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/spacex/
+  - icon: file
+    icon_pack: fas
+    link: https://vampir.io/files
+  - icon: globe
+    icon_pack: fas
+    link: https://whoami.vampir.io
   - icon: weibo
     icon_pack: fab
     link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
