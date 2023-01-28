@@ -13,8 +13,8 @@ sections:
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
-        color: black
-        text_color_light: true
+        #color: black
+        #text_color_light: true
         #image:
         # Add your image background to `assets/media/`.
         #  filename: space.jpg
@@ -29,6 +29,6 @@ sections:
         #  filename: background-video.mp4
         #  filename: {{< video src="background-video.mp4" controls="no" >}}
         #  # Post-processing: flip the video horizontally?
-          flip: false
+        #  flip: false
       css_class: d-flex fullscreen align-items-center
 ---
