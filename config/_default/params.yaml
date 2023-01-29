@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 footer:
   copyright:
@@ -59,15 +59,15 @@ locale:
 features:
   syntax_highlighter:
     enable: false
-    extra_languages:
-      - r
-      - latex
+ #   extra_languages:
+ #     - r
+ #     - latex
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/vampir-io/hugo-minimal-theme'
+    url: 'https://github.com/vampir-io/hugo-minimal-theme/'
     content_dir: content
     branch: main
   avatar:
@@ -100,6 +100,6 @@ features:
 extensions:
   cms:
     branch: main
-    local_backend: true
+    local_backend: false
   academicons:
     enable: false
