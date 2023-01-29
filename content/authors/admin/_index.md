@@ -14,9 +14,9 @@ status:
   icon: 🧛
 
 # Organizations/Affiliations
-organizations:
-  - name: vampir.io
-    url: "https://vampir.io"
+#organizations:
+#  - name: vampir.io
+#    url: "https://vampir.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Hello World.'
