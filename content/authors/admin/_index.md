@@ -14,9 +14,9 @@ status:
   icon: 🧛
 
 # Organizations/Affiliations
-#organizations:
-#- name: vampir.io
-#  url: "https://vampir.io"
+organizations:
+  - name: vampir.io
+    url: "https://vampir.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Hello World.'
@@ -39,7 +39,7 @@ social:
   - icon: file-export
     icon_pack: fas
     label: config
-    link: uploads/resume.pdf
+    link: uploads/image-base.yaml
   - icon: github
     icon_pack: fab
     link: https://github.com/vampir-io/
