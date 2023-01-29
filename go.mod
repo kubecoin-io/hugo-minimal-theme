@@ -1,6 +1,6 @@
 module github.com/wowchemy/hugo-minimal-theme
 
-go 1.15
+go 1.14.4
 
 require (
 	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 // indirect
