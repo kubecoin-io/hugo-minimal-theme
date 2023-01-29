@@ -13,16 +13,20 @@ sections:
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
     design:
       background:
-        color: black
+        color: '#090a0b'
         text_color_light: true
-        image:
+        video:
+          path: background-video.mp4
+        #color: black
+        #text_color_light: true
+        #image:
         # Add your image background to `assets/media/`.
-          filename: space.jpg
-          filters:
-            brightness: 0.2
-            size: cover
-            position: center
-            parallax: false
+        #  filename: space.jpg
+        #  filters:
+        #    brightness: 0.2
+        #    size: cover
+        #    position: center
+        #    parallax: false
         #video: 
         #{{< youtube w7Ft2ymGmfc >}}
         #  # Name of video in `assets/media/`.
