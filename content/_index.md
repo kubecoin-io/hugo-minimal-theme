@@ -23,11 +23,11 @@ sections:
         #    size: cover
         #    position: center
         #    parallax: false
-        #video: 
-        {{< youtube w7Ft2ymGmfc >}}
+        video: 
+        #{{< youtube w7Ft2ymGmfc >}}
         #  # Name of video in `assets/media/`.
         #  background.video.filename: background-video.mp4
-        #filename: background-video.mp4
+          filename: background-video.mp4
         #filename: 
         #{{< youtube w7Ft2ymGmfc >}}
         #  filename: {{< video src="background-video.mp4" controls="no" >}}
