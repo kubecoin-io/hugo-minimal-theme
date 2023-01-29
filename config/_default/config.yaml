@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: vampir.io # Website name
-baseURL: 'https://vampir.io/' # Website URL
-
+baseURL: '' # Website URL
+#baseURL: 'https://vampir.io/'
 ############################
 ## LANGUAGE
 ############################
@@ -44,7 +44,6 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-#  home: [HTML, RSS, JSON, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
