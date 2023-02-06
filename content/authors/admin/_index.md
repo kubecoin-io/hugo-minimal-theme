@@ -36,10 +36,14 @@ social:
     label: download
 # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
+# icon source : https://fontawesome.com/icons?d=gallery&s=brands
   - icon: file-export
     icon_pack: fas
     label: config
     link: uploads/image-base.yaml
+  - icon: blog
+    icon_pack: fa
+    link: https://vampir.io/blog/
   - icon: github
     icon_pack: fab
     link: https://github.com/vampir-io/
