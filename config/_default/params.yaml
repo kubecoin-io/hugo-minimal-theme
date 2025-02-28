@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: 'vampir.io'
-    description: 'vampir.io website.'
+    org_name: 'kubecoin.io'
+    description: 'kubecoin.io website.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} vampir.io. This work is licensed under {license}'
+    notice: '© {year} kubecoin.io. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/vampir-io/hugo-minimal-theme/'
+    url: 'https://github.com/kubecoin-io/hugo-minimal-theme/'
     content_dir: content
     branch: main
   avatar:
