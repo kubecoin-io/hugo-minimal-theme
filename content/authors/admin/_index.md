@@ -1,7 +1,7 @@
 ---
 # Display name
 title: kubecoin.io
-name_pronunciation: HTTPS://
+name_pronunciation: https://
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: 🧛
+  icon: 🌐
 
 # Organizations/Affiliations
 #organizations:
