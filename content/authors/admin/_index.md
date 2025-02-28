@@ -1,6 +1,6 @@
 ---
 # Display name
-title: vampir.io
+title: kubecoin.io
 name_pronunciation: HTTPS://
 
 # Is this the primary user of the site?
@@ -15,8 +15,8 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#  - name: vampir.io
-#    url: "https://vampir.io"
+#  - name: kubecoin.io
+#    url: "https://kubecoin.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 'Hello World.'
@@ -29,10 +29,10 @@ social:
   - icon: globe
     icon_pack: fas
     label: whoami
-    link: https://whoami.vampir.io
+    link: https://whoami.kubecoin.io
   - icon: folder
     icon_pack: fas
-    link: https://vampir.io/files/
+    link: https://kubecoin.io/files/
     label: download
 # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
@@ -43,13 +43,13 @@ social:
     link: uploads/image-base.yaml
   - icon: blog
     icon_pack: fa
-    link: https://vampir.io/blog/
+    link: https://kubecoin.io/blog/
   - icon: github
     icon_pack: fab
-    link: https://github.com/vampir-io/
+    link: https://github.com/kubecoin-io/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:info@vampir.io'
+    link: 'mailto:info@kubecoin.io'
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
